@@ -1,7 +1,7 @@
 # 🤖 Basic Python ChatBot
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712034.png" alt="Chatbot Logo" width="200"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/8943/8943377.png" alt="Chatbot Logo" width="200"/>
 </p>
 
 
@@ -42,6 +42,6 @@ A fun and interactive **rule-based chatbot** built with Python. The bot can gree
 Here’s how the chatbot looks when running in the terminal:
 
 <p align="center">
-  <img src="screenshot.png" alt="Chatbot Demo" width="600"/>
+  <img src="https://github.com/foziaali1122/CodeAlpha-Task-3-Basic-Chatbot/blob/main/Chatbot%20.png" alt="Chatbot Demo" width="600"/>
 </p>
 
